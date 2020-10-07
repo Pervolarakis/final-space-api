@@ -83,6 +83,10 @@ module.exports = {
       ],
       copyright: "Handcrafted by me © twentytwenty",
     },
+    googleAnalytics: {
+      trackingID: 'UA-179975321-1',
+      anonymizeIP: true, 
+    },
     metadatas: [
       {
         name: "title",
